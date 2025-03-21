@@ -19,6 +19,11 @@ Complete Circuit on Kicad :
 <a> <img src="./Images/Kicad Complete Circuit.png" width="1200"></a>
 </p>
 
+LED 1 : 
+
+<p align="center">
+<a> <img src="./Images/LED 1.png" width="1200"></a>
+</p>
 
 
 ### b. Welding
