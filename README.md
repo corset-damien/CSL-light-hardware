@@ -62,7 +62,8 @@ Liste des composants :
 
 - RECOM qui se rapproche le plus pour l'instant :
 https://www.gotronic.fr/art-convertisseur-r-78e3-3-0-5-29589.htm
-
+Code : 14977
+Prix : 4,6€
 REF Gotronic, lien et prix
 
 ### c. Assembly
