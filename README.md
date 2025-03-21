@@ -1,11 +1,24 @@
 # CSL-light-hardware
 
 
-## I. Objectifs
+## I. Objectives 
 
-## II. Utilisation 
 
-## III. Fabrication 
+
+## II. Usage
+Branchement 
+Utilisation du code Python
+
+## III. Manufacture
+
+### Kicad
+
+Kicad 
+Soudure
+Montage
+Code
+
 
 ## IV. Pref
 
+Specs avec Mathis
