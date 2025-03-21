@@ -14,7 +14,7 @@ Utilisation du code Python
 ### a. Kicad
 
 <p align="center">
-<a> <img src="./Images/Kicad Complete Circuit.png" width="300"></a>
+<a> <img src="./Images/Kicad Complete Circuit.png" width="1200"></a>
 </p>
 
 ### b. Welding
