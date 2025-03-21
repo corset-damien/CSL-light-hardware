@@ -68,6 +68,8 @@ REF Gotronic, lien et prix
 
 - Interrupteur qui se rapproche le plus pour l'instant :
 https://www.gotronic.fr/art-interrupteur-h8650-4226.htm
+Code : 07071
+Prix : 3,9€
 
 ### c. Assembly
 ### d. Code
