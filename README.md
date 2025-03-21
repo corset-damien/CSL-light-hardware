@@ -16,21 +16,36 @@ Utilisation du code Python
 Complete Circuit on Kicad : 
 
 <p align="center">
-<a> <img src="./Images/Kicad Complete Circuit.png" width="1200"></a>
+<a> <img src="./Images/Kicad_Complete_Circuit.png" width="1200"></a>
 </p>
 
-LED 1 : 
+LED 1 and 2 : 
 
 <p align="center">
-<a> <img src="./Images/LED 1.png" width="1200"></a>
+<a> <img src="./Images/LED1_LED2.png" width="1200"></a>
 </p>
 
 
-LED 2 : 
+PWM Control : 
 
 <p align="center">
-<a> <img src="./Images/LED 2.png" width="1200"></a>
+<a> <img src="./Images/PWM_Control.png" width="1200"></a>
 </p>
+
+
+Analog Control : 
+
+<p align="center">
+<a> <img src="./Images/Analog_Control.png" width="1200"></a>
+</p>
+
+Serial or Manual Mode : 
+
+<p align="center">
+<a> <img src="./Images/Serial_Manual.png" width="1200"></a>
+</p>
+
+
 Explication des différents rôles : 
 
 Transistor : inverse le signal / RECOM
