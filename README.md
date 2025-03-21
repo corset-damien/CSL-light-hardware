@@ -11,12 +11,11 @@ Utilisation du code Python
 
 ## III. Manufacture
 
-### Kicad
+### a. Kicad
+### b. Welding
+### c. Assembly
+### d. Code
 
-Kicad 
-Soudure
-Montage
-Code
 
 
 ## IV. Pref
