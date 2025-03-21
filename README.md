@@ -26,6 +26,13 @@ LED 1 :
 </p>
 
 
+LED 2 : 
+
+<p align="center">
+<a> <img src="./Images/LED 2.png" width="1200"></a>
+</p>
+
+
 ### b. Welding
 ### c. Assembly
 ### d. Code
