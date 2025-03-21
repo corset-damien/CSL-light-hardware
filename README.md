@@ -66,6 +66,9 @@ Code : 14977
 Prix : 4,6€
 REF Gotronic, lien et prix
 
+- Interrupteur qui se rapproche le plus pour l'instant :
+https://www.gotronic.fr/art-interrupteur-h8650-4226.htm
+
 ### c. Assembly
 ### d. Code
 
