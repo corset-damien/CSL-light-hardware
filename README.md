@@ -59,6 +59,10 @@ Transistor : inverse le signal / RECOM
 - Prises jack
 
 Liste des composants : 
+
+- RECOM qui se rapproche le plus pour l'instant :
+https://www.gotronic.fr/art-convertisseur-r-78e3-3-0-5-29589.htm
+
 REF Gotronic, lien et prix
 
 ### c. Assembly
