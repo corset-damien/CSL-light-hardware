@@ -13,9 +13,13 @@ Utilisation du code Python
 
 ### a. Kicad
 
+Complete Circuit on Kicad : 
+
 <p align="center">
 <a> <img src="./Images/Kicad Complete Circuit.png" width="1200"></a>
 </p>
+
+
 
 ### b. Welding
 ### c. Assembly
