@@ -76,6 +76,13 @@ https://www.gotronic.fr/art-module-afficheur-oled-0-96-tf052-28511.htm
 Code : 36038
 Prix : 9,5€
 
+- Potentiomètre :
+https://www.gotronic.fr/art-potentiometre-logarithmique-10k-937-3000.htm
+Code : 04519
+Prix : 2,60€
+
+
+
 ### c. Assembly
 ### d. Code
 
