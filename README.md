@@ -93,9 +93,9 @@ Serial or Manual Mode :
 </p>
 
 #### B. Component roles
-- Top connectors (J5, J7, J6, J8, J10).
+- **Top connectors (J5, J7, J6, J8, J10)**
   These are screw terminal blocks used to connect LEDs, power, or other peripherals.
-- MOSFETs (BS170)
+- **MOSFETs (BS170)**
 These are used to invert the signal. This can be useful if the LEDs require active low control (they light up when the signal is LOW).
 - Relays (RECOM1, RECOM2, etc.)
 Their role is to adjust the LED light output to prevent damage. They therefore act as power regulators.
