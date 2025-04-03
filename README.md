@@ -52,6 +52,8 @@ Nothing happens.
 
 ### II. Using the LEDControl_interrupt_screen_ascii code
 
+First, open the LEDControl_interrupt_screen_ascii.cpp code in Arduino.ide.
+To run the program, you must first have the "XX" library installed on Arduino.
 
 
 ## III. Manufacture
@@ -109,10 +111,28 @@ It allows switching between Serial and Manual modes.
 
 ### II. Welding
 
-- Shield de Arduino
-- On soude pas sur le pcb
-- Vissable sur un casing 3D
-- Prises jack
+#### A. Shield Arduino
+First, you need to solder the branches of the Arduino.
+
+#### B. Components that you solder directly onto the PCB board
+- Resistors
+- MOSFET transistors
+- RECOM
+- Terminal blocks
+- Vias
+
+#### C. Components that you don't solder directly onto the PCB board
+- The 2 potentiometers
+- The OLED screen
+- The 2 switches
+- The on-off switch
+
+#### D. Jack sockets
+You have to solder cables with the female jack sockets.
+
+<p align="center">
+<a> <img src="./Images/jack_socket.png" width="1200"></a>
+</p>
 
 Liste des composants : 
 
@@ -140,6 +160,10 @@ Prix : 2,60€
 
 
 ### III. Assembly
+
+
+
+
 ### IV. Code
 
 
