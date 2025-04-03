@@ -47,7 +47,7 @@ Nothing happens.
 - Insert the jacks for viewing the signals into the corresponding holes
 
 <p align="center">
-<a> <img src="./Images/Final_module.png" width="1200"></a>
+<a> <img src="./Images/final_module.png" width="1200"></a>
 </p>
 
 ### II. Using the LEDControl_interrupt_screen_ascii code
