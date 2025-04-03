@@ -56,7 +56,7 @@ Nothing happens.
 
 ## III. Manufacture
 
-### a. Kicad
+### I. Kicad
 
 Complete Circuit on Kicad : 
 
@@ -96,7 +96,7 @@ Explication des différents rôles :
 Transistor : inverse le signal / RECOM
 
 
-### b. Welding
+### II. Welding
 
 - Shield de Arduino
 - On soude pas sur le pcb
@@ -128,8 +128,8 @@ Prix : 2,60€
 
 
 
-### c. Assembly
-### d. Code
+### III. Assembly
+### IV. Code
 
 
 
