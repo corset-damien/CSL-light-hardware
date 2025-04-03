@@ -40,8 +40,19 @@ The Arduino reads the potentiometer's output voltage (0V to 5V) from an analog i
 Nothing happens.
 
 ## II. Usage
-Branchement 
-Utilisation du code Python
+
+### I. Connection 
+- Insert the LED jacks into the corresponding holes
+- Insert the generator jacks into the corresponding holes
+- Insert the jacks for viewing the signals into the corresponding holes
+
+<p align="center">
+<a> <img src="./Images/Final_module.png" width="1200"></a>
+</p>
+
+### II. Using the LEDControl_interrupt_screen_ascii code
+
+
 
 ## III. Manufacture
 
