@@ -134,7 +134,10 @@ You have to solder cables with the female jack sockets.
 <a> <img src="./Images/jack_socket.png" width="500"></a>
 </p>
 
-Liste des composants : 
+For the black and red cables of the male jack, you must solder them to the generator, LED, and signal cables.
+Before soldering, prepare some heat-shrink tubing to prevent loose connections.
+
+#### E. List of components
 
 - RECOM qui se rapproche le plus pour l'instant :
 https://www.gotronic.fr/art-convertisseur-r-78e3-3-0-5-29589.htm
