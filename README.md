@@ -108,6 +108,9 @@ Two switches are used to select between analog or PWM control for each LED.
 - **A Switch On-Off switch** :
 It allows switching between Serial and Manual modes.
 
+#### C. Impression
+
+It lasts about 30 minutes.
 
 ### II. Welding
 
@@ -164,8 +167,25 @@ Prix : 2,60€
 
 ### III. Assembly
 
+#### A. Box printing
 
+Printing the box takes approximately 1 hour and 20 minutes.
+Printing the box lid takes approximately 30 minutes.
+Printing the small panel with the instructions takes approximately 13 minutes.
 
+#### B. Plastic inserts
+
+You'll need to make three XXmm plastic inserts with XXmm MXX screws to secure the Arduino to the box lid.
+Then, make four mm plastic inserts with XXmm MXX screws to close the box.
+
+#### C. Finalization
+
+Screw the components into the box in this order:
+- Female jack sockets
+- OLED display with Xmm screws and nuts
+- The two switches
+- The on-off switch
+- The two potentiometers
 
 ### IV. Code
 
