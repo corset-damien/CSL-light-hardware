@@ -58,6 +58,8 @@ Nothing happens.
 
 ### I. Kicad
 
+#### A. Complete electronic circuit
+
 Complete Circuit on Kicad : 
 
 <p align="center">
@@ -90,10 +92,19 @@ Serial or Manual Mode :
 <a> <img src="./Images/Serial_Manual.png" width="1200"></a>
 </p>
 
-
-Explication des différents rôles : 
-
-Transistor : inverse le signal / RECOM
+#### B. Component roles
+- Top connectors (J5, J7, J6, J8, J10).
+  These are screw terminal blocks used to connect LEDs, power, or other peripherals.
+- MOSFETs (BS170)
+These are used to invert the signal. This can be useful if the LEDs require active low control (they light up when the signal is LOW).
+- Relays (RECOM1, RECOM2, etc.)
+Their role is to adjust the LED light output to prevent damage. They therefore act as power regulators.
+- Potentiometers (RV1, RV2)
+These allow for a manual mode to adjust LED intensity via an analog input.
+- Double Switch (SW_DPDT_x2)
+Two switches are used to select between analog or PWM control for each LED.
+- A Switch On-Off switch
+It allows switching between Serial and Manual modes.
 
 
 ### II. Welding
