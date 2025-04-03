@@ -93,17 +93,17 @@ Serial or Manual Mode :
 </p>
 
 #### B. Component roles
-- **Top connectors (J5, J7, J6, J8, J10)**
+- **Top connectors (J5, J7, J6, J8, J10)** :
   These are screw terminal blocks used to connect LEDs, power, or other peripherals.
-- **MOSFETs (BS170)**
+- **MOSFETs (BS170)** :
 These are used to invert the signal. This can be useful if the LEDs require active low control (they light up when the signal is LOW).
-- Relays (RECOM1, RECOM2, etc.)
+- **Relays (RECOM1, RECOM2, etc.)** :
 Their role is to adjust the LED light output to prevent damage. They therefore act as power regulators.
-- Potentiometers (RV1, RV2)
+- **Potentiometers (RV1, RV2)** :
 These allow for a manual mode to adjust LED intensity via an analog input.
-- Double Switch (SW_DPDT_x2)
+- **Double Switch (SW_DPDT_x2)** :
 Two switches are used to select between analog or PWM control for each LED.
-- A Switch On-Off switch
+- **A Switch On-Off switch** :
 It allows switching between Serial and Manual modes.
 
 
