@@ -2,8 +2,42 @@
 
 
 ## I. Objectives 
+### LED module operating modes with a pcb plate
+The LED module offers three operating modes, based on the PWM and analog outputs of a microcontroller like the Arduino : 
 
+- Serial Mode -> Control via a computer via serial communication (USB or Bluetooth).
+- Manual Mode -> Manual control with potentiometers.
+- Analog/PWM Selection -> Allows you to choose the type of modulation applied to the LEDs.
 
+A master switch allows you to switch between Serial and Manual mode.
+
+#### Serial Mode (via computer)
+
+This mode allows you to control LED brightness from a computer using serial communication via the Arduino's USB port.
+It has two sub-modes:
+
+##### PWM (Pulse Width Modulation) Sub-Mode
+
+Light intensity is controlled using an Arduino PWM output.
+The user sends a value from 0 to 255 via the serial port.
+The Arduino adjusts the LED intensity based on the duty cycle.
+The BS170 MOSFET inverts the signal before it reaches the LEDs.
+
+##### Analog Sub-Mode
+
+The user sends a target voltage (e.g., 3.3V) via the serial port.
+LED brightness is adjusted by sending an analog value (voltage) via the serial port.
+RECOM relays regulate the light output to avoid damaging the LEDs.
+
+#### Manual mode (with a potentiometer)
+
+In this mode, the light intensity is adjusted manually with a potentiometer.
+
+##### Analog Sub-Mode
+The Arduino reads the potentiometer's output voltage (0V to 5V) from an analog input (A0, A1, etc.), which continuously controls the LED power supply.
+
+##### PWM Sub-Mode
+Nothing happens.
 
 ## II. Usage
 Branchement 
