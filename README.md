@@ -131,7 +131,7 @@ First, you need to solder the branches of the Arduino.
 You have to solder cables with the female jack sockets.
 
 <p align="center">
-<a> <img src="./Images/jack_socket.png" width="1200"></a>
+<a> <img src="./Images/jack_socket.png" width="500"></a>
 </p>
 
 Liste des composants : 
