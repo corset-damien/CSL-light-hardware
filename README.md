@@ -3,13 +3,6 @@
 
 ## I. Objectives 
 ### LED module operating modes with a pcb plate
-The LED module offers three operating modes, based on the PWM and analog outputs of a microcontroller like the Arduino : 
-
-- Serial Mode -> Control via a computer via serial communication (USB or Bluetooth).
-- Manual Mode -> Manual control with potentiometers.
-- Analog/PWM Selection -> Allows you to choose the type of modulation applied to the LEDs.
-
-A master switch allows you to switch between Serial and Manual mode.
 
 #### MODE 1 - Sequence of pulses
 The user can define on the computer the frequency and amplitude of a sequence of pulses.
