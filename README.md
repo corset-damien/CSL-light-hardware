@@ -44,7 +44,7 @@ Nothing happens.
 ### I. Connection 
 - Insert the LED jacks into the corresponding holes
 - Insert the generator jacks into the corresponding holes
-- Insert the jacks for viewing the signals into the corresponding holes
+- Insert the jacks to feed the analog signals into the corresponding input holes
 
 <p align="center">
 <a> <img src="./Images/final_module.png" width="500"></a>
@@ -97,10 +97,10 @@ Serial or Manual Mode :
 #### B. Component roles
 - **Top connectors (J5, J7, J6, J8, J10)** :
   These are screw terminal blocks used to connect LEDs, power, or other peripherals.
-- **MOSFETs (BS170)** :
-These are used to invert the signal. This can be useful if the LEDs require active low control (they light up when the signal is LOW).
 - **Relays (RECOM1, RECOM2, etc.)** :
 Their role is to adjust the LED light output to prevent damage. They therefore act as power regulators.
+- **MOSFETs (BS170)** :
+These are used to invert the signal. In fact, the RECOM inverts the input signal, it is inverted a first time before it processes it, in order to obtain the initially desired signal at the output. This can be useful if the LEDs require active low control (they light up when the signal is LOW).
 - **Potentiometers (RV1, RV2)** :
 These allow for a manual mode to adjust LED intensity via an analog input.
 - **Double Switch (SW_DPDT_x2)** :
