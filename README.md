@@ -35,7 +35,7 @@ The user can set the LED level using a potentiometer.
 ### III. Using the LEDControl_interrupt_screen_ascii code
 
 First, open the LEDControl_interrupt_screen_ascii.cpp code in Arduino.ide.
-To run the program, you must first have the "XX" library installed on Arduino.
+To run the program, you must first have the SSD1306Ascii library installed on Arduino.
 
 
 ## III. Manufacture
