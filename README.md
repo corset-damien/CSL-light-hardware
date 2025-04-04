@@ -158,6 +158,8 @@ Prix : 2,60€
 
 #### A. Box printing
 
+[Solidworks box](https://github.com/Julie-Mauguit/CSL-light-hardware/tree/main/Solidworks%20bo%C3%AEte)
+
 Printing the box takes approximately 1 hour and 20 minutes.
 Printing the box lid takes approximately 30 minutes.
 Printing the small panel with the instructions takes approximately 13 minutes.
