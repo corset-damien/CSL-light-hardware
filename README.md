@@ -182,6 +182,8 @@ Screw the components into the box in this order:
 
 [Code Arduino/LEDControl_interrupt_screen_ascii](https://github.com/Julie-Mauguit/CSL-light-hardware/tree/main/Code%20Arduino/LEDControl_interrupt_screen_ascii)
 
+The code has been adapted to suit the circuit. 
+In this configuration, pins 3 and 6 are used for PWM inputs, while pins A0 and A1 are used for analog inputs.
 
 
 ## IV. Pref
