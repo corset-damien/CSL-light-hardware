@@ -120,7 +120,7 @@ First, you need to solder the branches of the Arduino.
 - The on-off switch
 
 <p align="center">
-  <strong>Après soudage</strong><br>
+  <strong>After welding</strong><br>
 <a> <img src="./Images/after_welding.jpg" width="500"></a>
 </p>
 
