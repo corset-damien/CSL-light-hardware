@@ -11,37 +11,26 @@ The LED module offers three operating modes, based on the PWM and analog outputs
 
 A master switch allows you to switch between Serial and Manual mode.
 
-#### I. Serial Mode (via computer)
+#### MODE 1 - Sequence of pulses
+The user can define on the computer the frequency and amplitude of a sequence of pulses.
 
-This mode allows you to control LED brightness from a computer using serial communication via the Arduino's USB port.
-It has two sub-modes:
 
-##### A. PWM (Pulse Width Modulation) Sub-Mode
+#### MODE 2 - Analog control 
+The user can send an analog signal to control the LED. The analog sugnal can be designed using eg. a signal generator. 
 
-Light intensity is controlled using an Arduino PWM output.
-The user sends a value from 0 to 255 via the serial port.
-The Arduino adjusts the LED intensity based on the duty cycle.
-The BS170 MOSFET inverts the signal before it reaches the LEDs.
-
-##### B. Analog Sub-Mode
-
-The user sends a target voltage (e.g., 3.3V) via the serial port.
-LED brightness is adjusted by sending an analog value (voltage) via the serial port.
-RECOM relays regulate the light output to avoid damaging the LEDs.
-
-#### II. Manual mode (with a potentiometer)
-
-In this mode, the light intensity is adjusted manually with a potentiometer.
-
-##### A. Analog Sub-Mode
-The Arduino reads the potentiometer's output voltage (0V to 5V) from an analog input (A0, A1, etc.), which continuously controls the LED power supply.
-
-##### B. PWM Sub-Mode
-Nothing happens.
+#### MODE 3 - Manual control
+The user can set the LED level using a potentiometer.
 
 ## II. Usage
 
-### I. Connection 
+
+### I. Access mode 
+**To access Mode 1**: set interruptor to 1 ("serial" shows up on the screen) and switch the flip to PWM
+**To access Mode 2**: set interruptor to 1 ("serial" shows up on the screen) and switch the flip to analog.
+**To access Mode 3**: set interruptor to 0 ("manual" shows up on the screen)
+
+
+### II. Connection 
 - Insert the LED jacks into the corresponding holes
 - Insert the generator jacks into the corresponding holes
 - Insert the jacks to feed the analog signals into the corresponding input holes
@@ -50,7 +39,7 @@ Nothing happens.
 <a> <img src="./Images/final_module.png" width="500"></a>
 </p>
 
-### II. Using the LEDControl_interrupt_screen_ascii code
+### III. Using the LEDControl_interrupt_screen_ascii code
 
 First, open the LEDControl_interrupt_screen_ascii.cpp code in Arduino.ide.
 To run the program, you must first have the "XX" library installed on Arduino.
