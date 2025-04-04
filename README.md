@@ -35,12 +35,14 @@ The user can set the LED level using a potentiometer.
 ### III. Using the LEDControl_interrupt_screen_ascii code
 
 First, open the LEDControl_interrupt_screen_ascii.cpp code in Arduino.ide.
-To run the program, you must first have the "XX" library installed on Arduino.
+To run the program, you must first have the SSD1306Ascii library installed on Arduino.
 
 
 ## III. Manufacture
 
 ### I. Kicad
+
+[Kicad Folder](https://github.com/Julie-Mauguit/CSL-light-hardware/tree/main/Kicad%20pcb)
 
 #### A. Complete electronic circuit
 
@@ -87,12 +89,17 @@ These are used to invert the signal. In fact, the RECOM inverts the input signal
 These allow for a manual mode to adjust LED intensity via an analog input.
 - **Double Switch (SW_DPDT_x2)** :
 Two switches are used to select between analog or PWM control for each LED.
-- **A Switch On-Off switch** :
+- **A Switch On-Off (Jumper_2_Open)** :
 It allows switching between Serial and Manual modes.
 
 #### C. Impression
 
 It lasts about 30 minutes.
+
+<p align="center">
+<a> <img src="./Images/complete_circuit_pcb.png" width="500"></a>
+</p>
+
 
 ### II. Welding
 
@@ -151,6 +158,8 @@ Prix : 2,60€
 
 #### A. Box printing
 
+[Solidworks box](https://github.com/Julie-Mauguit/CSL-light-hardware/tree/main/Solidworks%20bo%C3%AEte)
+
 Printing the box takes approximately 1 hour and 20 minutes.
 Printing the box lid takes approximately 30 minutes.
 Printing the small panel with the instructions takes approximately 13 minutes.
@@ -171,6 +180,10 @@ Screw the components into the box in this order:
 
 ### IV. Code
 
+[Code Arduino/LEDControl_interrupt_screen_ascii](https://github.com/Julie-Mauguit/CSL-light-hardware/tree/main/Code%20Arduino/LEDControl_interrupt_screen_ascii)
+
+The code has been adapted to suit the circuit. 
+In this configuration, pins 3 and 6 are used for PWM inputs, while pins A0 and A1 are used for analog inputs.
 
 
 ## IV. Pref
