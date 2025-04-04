@@ -42,6 +42,8 @@ To run the program, you must first have the SSD1306Ascii library installed on Ar
 
 ### I. Kicad
 
+[Kicad Folder](https://github.com/Julie-Mauguit/CSL-light-hardware/tree/main/Kicad%20pcb)
+
 #### A. Complete electronic circuit
 
 Complete Circuit on Kicad : 
