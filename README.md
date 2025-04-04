@@ -176,6 +176,8 @@ Screw the components into the box in this order:
 
 ### IV. Code
 
+[Code Arduino](Code Arduino/LEDControl_interrupt_screen_ascii)
+
 
 
 ## IV. Pref
