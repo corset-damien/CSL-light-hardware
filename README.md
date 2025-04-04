@@ -94,6 +94,11 @@ It allows switching between Serial and Manual modes.
 
 It lasts about 30 minutes.
 
+<p align="center">
+<a> <img src="./Images/complete_circuit_pcb.png" width="1200"></a>
+</p>
+
+
 ### II. Welding
 
 #### A. Shield Arduino
