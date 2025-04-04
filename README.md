@@ -25,9 +25,9 @@ The user can set the LED level using a potentiometer.
 
 
 ### I. Access mode 
-**To access Mode 1**: set interruptor to 1 ("serial" shows up on the screen) and switch the flip to PWM
-**To access Mode 2**: set interruptor to 1 ("serial" shows up on the screen) and switch the flip to analog.
-**To access Mode 3**: set interruptor to 0 ("manual" shows up on the screen)
+- **To access Mode 1**: set interruptor to 1 ("serial" shows up on the screen) and switch the flip to PWM.
+- **To access Mode 2**: set interruptor to 1 ("serial" shows up on the screen) and switch the flip to analog.
+- **To access Mode 3**: set interruptor to 0 ("manual" shows up on the screen).
 
 
 ### II. Connection 
