@@ -73,7 +73,7 @@ Analog Control :
 Serial or Manual Mode : 
 
 <p align="center">
-<a> <img src="./Images/Serial_Manual.png" width="1200"></a>
+<a> <img src="./Images/Serial_Manual.png" width="500"></a>
 </p>
 
 #### B. Component roles
