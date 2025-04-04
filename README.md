@@ -157,14 +157,14 @@ Printing the small panel with the instructions takes approximately 13 minutes.
 
 #### B. Plastic inserts
 
-You'll need to make three XXmm plastic inserts with XXmm MXX screws to secure the Arduino to the box lid.
-Then, make four mm plastic inserts with XXmm MXX screws to close the box.
+You will need to make three 3.7mm diameter, 3mm deep plastic inserts with 6mm long M3 screws to secure the Arduino to the enclosure lid. 
+Then, make 3mm diameter, 3mm deep plastic inserts with 8mm long M3 screws to close the enclosure.
 
 #### C. Finalization
 
 Screw the components into the box in this order:
 - Female jack sockets
-- OLED display with Xmm screws and nuts
+- OLED display with 10mm long M2 screws and nuts
 - The two switches
 - The on-off switch
 - The two potentiometers
