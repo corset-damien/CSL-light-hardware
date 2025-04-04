@@ -169,6 +169,7 @@ Printing the box takes approximately 1 hour and 20 minutes.
 Printing the box lid takes approximately 30 minutes.
 Printing the small panel with the instructions takes approximately 13 minutes.
 
+
 #### B. Plastic inserts
 
 You will need to make three 3.7mm diameter, 3mm deep plastic inserts with 6mm long M3 screws to secure the Arduino to the enclosure lid. 
@@ -182,6 +183,12 @@ Screw the components into the box in this order:
 - The two switches
 - The on-off switch
 - The two potentiometers
+
+<p align="center">
+  <strong>After assembly</strong><br>
+<a> <img src="./Images/after_assembly.jpeg" width="500"></a>
+<a> <img src="./Images/after_assembly_1.jpeg" width="500"></a>
+</p>
 
 ### IV. Code
 
