@@ -119,6 +119,11 @@ First, you need to solder the branches of the Arduino.
 - The 2 switches
 - The on-off switch
 
+<p align="center">
+  <strong>After welding</strong><br>
+<a> <img src="./Images/after_welding.jpg" width="500"></a>
+</p>
+
 #### D. Jack sockets
 You have to solder cables with the female jack sockets.
 
