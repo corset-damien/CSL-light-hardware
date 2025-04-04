@@ -73,7 +73,7 @@ Analog Control :
 Serial or Manual Mode : 
 
 <p align="center">
-<a> <img src="./Images/Serial_Manual.png" width="500"></a>
+<a> <img src="./Images/Serial_Manual.png" width="1200"></a>
 </p>
 
 #### B. Component roles
@@ -95,7 +95,7 @@ It allows switching between Serial and Manual modes.
 It lasts about 30 minutes.
 
 <p align="center">
-<a> <img src="./Images/complete_circuit_pcb.png" width="1200"></a>
+<a> <img src="./Images/complete_circuit_pcb.png" width="500"></a>
 </p>
 
 
