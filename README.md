@@ -87,7 +87,7 @@ These are used to invert the signal. In fact, the RECOM inverts the input signal
 These allow for a manual mode to adjust LED intensity via an analog input.
 - **Double Switch (SW_DPDT_x2)** :
 Two switches are used to select between analog or PWM control for each LED.
-- **A Switch On-Off switch** :
+- **A Switch On-Off (Jumper_2_Open)** :
 It allows switching between Serial and Manual modes.
 
 #### C. Impression
