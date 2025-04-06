@@ -138,7 +138,7 @@ Before soldering, prepare some heat-shrink tubing to prevent loose connections.
 
 On GOTRRONIC : 
 
-- **RECOM** qui se rapproche le plus pour l'instant : (x2)
+- **RECOM** : (x2)
   - Web link: https://www.gotronic.fr/art-convertisseur-r-78e3-3-0-5-29589.htm
   - Code : 14977
   - Price : 4,6€
