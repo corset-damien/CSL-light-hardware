@@ -168,7 +168,7 @@ REF Gotronic, lien et prix
 - **Bornier pas de 2.54mm** :
     - Lien internet : https://www.gotronic.fr/art-bornier-sc02-2-54-15468.htm
     - Code : 48930
-    - Prix : 0.80
+    - Prix : 0.80€
  
   
 
