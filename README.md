@@ -137,25 +137,25 @@ Before soldering, prepare some heat-shrink tubing to prevent loose connections.
 #### E. List of components
 
 - **RECOM** qui se rapproche le plus pour l'instant :
-  - https://www.gotronic.fr/art-convertisseur-r-78e3-3-0-5-29589.htm
+  - Lien internet : https://www.gotronic.fr/art-convertisseur-r-78e3-3-0-5-29589.htm
   - Code : 14977
   - Prix : 4,6€
 REF Gotronic, lien et prix
 
 - **Interrupteur** qui se rapproche le plus pour l'instant :
-https://www.gotronic.fr/art-interrupteur-h8650-4226.htm
-Code : 07071
-Prix : 3,9€
+  - Lien internet : https://www.gotronic.fr/art-interrupteur-h8650-4226.htm
+  - Code : 07071
+  - Prix : 3,9€
 
 - **Ecran OLED** :
-https://www.gotronic.fr/art-module-afficheur-oled-0-96-tf052-28511.htm
-Code : 36038
-Prix : 9,5€
+  - Lien internet : https://www.gotronic.fr/art-module-afficheur-oled-0-96-tf052-28511.htm
+  - Code : 36038
+  - Prix : 9,5€
 
 - **Potentiomètre** :
-https://www.gotronic.fr/art-potentiometre-logarithmique-10k-937-3000.htm
-Code : 04519
-Prix : 2,60€
+  - Lien internet : https://www.gotronic.fr/art-potentiometre-logarithmique-10k-937-3000.htm
+  - Code : 04519
+  - Prix : 2,60€
 
 
 
