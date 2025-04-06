@@ -136,11 +136,12 @@ Before soldering, prepare some heat-shrink tubing to prevent loose connections.
 
 #### E. List of components
 
+On GOTRRONIC : 
+
 - **RECOM** qui se rapproche le plus pour l'instant :
   - Lien internet : https://www.gotronic.fr/art-convertisseur-r-78e3-3-0-5-29589.htm
   - Code : 14977
   - Prix : 4,6€
-REF Gotronic, lien et prix
 
 - **Interrupteur** qui se rapproche le plus pour l'instant :
   - Lien internet : https://www.gotronic.fr/art-interrupteur-h8650-4226.htm
@@ -161,15 +162,36 @@ REF Gotronic, lien et prix
     - Lien internet : https://www.gotronic.fr/art-inverseur-bipolaire-8012b-4181.htm
     - Code : 07014
     - Prix : 2,80€
+      
 - **Resistance 820 ohms** :
     - Lien internet : https://www.gotronic.fr/art-resistance-carbone-1w-820-8486-2748.htm
     - Code :  04235
     - Prix : 0,10€
+      
 - **Bornier pas de 2.54mm** :
     - Lien internet : https://www.gotronic.fr/art-bornier-sc02-2-54-15468.htm
     - Code : 48930
     - Prix : 0.80€
- 
+      
+ - **Jack mâle 3.5 mm** :
+    - Lien internet : https://www.gotronic.fr/art-cordon-jack-vers-fils-denudes-sterf-37803.htm
+    - Code : 48239
+    - Prix : 0,95€
+  
+ - **Embase femelle 3.5mm** :
+     - Lien internet : https://www.gotronic.fr/art-embase-femelle-cg203-4814.htm
+     - Code : 08461
+     - Prix : 0,50€
+
+ - **Transistor MOSFET BS170** :
+     - Lien internet : https://www.gotronic.fr/art-transistor-bs170-1569.htm
+     - Code : 02440
+     - Prix : 0.30€
+
+- **Arduino Uno** :
+    - Lien internet : https://www.gotronic.fr/art-arduino-uno-a000066-12420.htm
+    - Code : 25950
+    - Prix : 23.90€
   
 
 
