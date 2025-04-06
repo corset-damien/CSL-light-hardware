@@ -197,11 +197,16 @@ On GOTRRONIC :
     - Lien internet : https://www.gotronic.fr/art-connecteur-fh1x9-35491.htm
     - Code : 49007
     - Prix : 0.80€
+      
 - **Connector Arduino 14 pins** : (x1)
     - Lien internet : https://www.gotronic.fr/art-connecteur-fh1x14-35646.htm
     - Code : 49011
     - Prix : 1€
-
+      
+- **LED** : (x2)
+    - Lien internet : https://www.gotronic.fr/art-led-5-mm-led5bt-21009.htm
+    - Code :  03039
+    - Prix : 0.30€
 
 ### III. Assembly
 
