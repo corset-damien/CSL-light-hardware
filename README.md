@@ -161,7 +161,10 @@ REF Gotronic, lien et prix
     - Lien internet : https://www.gotronic.fr/art-inverseur-bipolaire-8012b-4181.htm
     - Code : 07014
     - Prix : 2,80€
-
+- **Resistance 820 ohms** :
+    - Lien internet : https://www.gotronic.fr/art-resistance-carbone-1w-820-8486-2748.htm
+    - Code :  04235
+    - Prix : 0,10€
 
 
 ### III. Assembly
