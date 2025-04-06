@@ -165,6 +165,12 @@ REF Gotronic, lien et prix
     - Lien internet : https://www.gotronic.fr/art-resistance-carbone-1w-820-8486-2748.htm
     - Code :  04235
     - Prix : 0,10€
+- **Bornier pas de 2.54mm** :
+    - Lien internet : https://www.gotronic.fr/art-bornier-sc02-2-54-15468.htm
+    - Code : 48930
+    - Prix : 0.80
+ 
+  
 
 
 ### III. Assembly
