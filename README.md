@@ -137,9 +137,9 @@ Before soldering, prepare some heat-shrink tubing to prevent loose connections.
 #### E. List of components
 
 - **RECOM** qui se rapproche le plus pour l'instant :
-https://www.gotronic.fr/art-convertisseur-r-78e3-3-0-5-29589.htm
-Code : 14977
-Prix : 4,6€
+  - https://www.gotronic.fr/art-convertisseur-r-78e3-3-0-5-29589.htm
+  - Code : 14977
+  - Prix : 4,6€
 REF Gotronic, lien et prix
 
 - **Interrupteur** qui se rapproche le plus pour l'instant :
