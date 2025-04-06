@@ -157,6 +157,11 @@ REF Gotronic, lien et prix
   - Code : 04519
   - Prix : 2,60€
 
+ - **Interrupteur à bacule** :
+  - Lien internet : https://www.gotronic.fr/art-inverseur-bipolaire-8012b-4181.htm
+  - Code : 07014
+  - Prix : 2,80€
+
 
 
 ### III. Assembly
