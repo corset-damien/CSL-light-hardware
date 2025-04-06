@@ -138,61 +138,69 @@ Before soldering, prepare some heat-shrink tubing to prevent loose connections.
 
 On GOTRRONIC : 
 
-- **RECOM** qui se rapproche le plus pour l'instant :
+- **RECOM** qui se rapproche le plus pour l'instant : (x2)
   - Lien internet : https://www.gotronic.fr/art-convertisseur-r-78e3-3-0-5-29589.htm
   - Code : 14977
   - Prix : 4,6€
 
-- **Interrupteur** qui se rapproche le plus pour l'instant :
+- **Interrupteur** qui se rapproche le plus pour l'instant : (x1)
   - Lien internet : https://www.gotronic.fr/art-interrupteur-h8650-4226.htm
   - Code : 07071
   - Prix : 3,9€
 
-- **Ecran OLED** :
+- **Ecran OLED** : (x1)
   - Lien internet : https://www.gotronic.fr/art-module-afficheur-oled-0-96-tf052-28511.htm
   - Code : 36038
   - Prix : 9,5€
 
-- **Potentiomètre** :
+- **Potentiomètre** : (x2)
   - Lien internet : https://www.gotronic.fr/art-potentiometre-logarithmique-10k-937-3000.htm
   - Code : 04519
   - Prix : 2,60€
 
- - **Interrupteur à bacule** :
+ - **Interrupteur à bacule** : (x2)
     - Lien internet : https://www.gotronic.fr/art-inverseur-bipolaire-8012b-4181.htm
     - Code : 07014
     - Prix : 2,80€
       
-- **Resistance 820 ohms** :
+- **Resistance 820 ohms** : (x2)
     - Lien internet : https://www.gotronic.fr/art-resistance-carbone-1w-820-8486-2748.htm
     - Code :  04235
     - Prix : 0,10€
       
-- **Bornier pas de 2.54mm** :
+- **Bornier pas de 2.54mm** : (x6)
     - Lien internet : https://www.gotronic.fr/art-bornier-sc02-2-54-15468.htm
     - Code : 48930
     - Prix : 0.80€
       
- - **Jack mâle 3.5 mm** :
+ - **Jack mâle 3.5 mm** : (x6)
     - Lien internet : https://www.gotronic.fr/art-cordon-jack-vers-fils-denudes-sterf-37803.htm
     - Code : 48239
     - Prix : 0,95€
   
- - **Embase femelle 3.5mm** :
+ - **Embase femelle 3.5mm** : (x6)
      - Lien internet : https://www.gotronic.fr/art-embase-femelle-cg203-4814.htm
      - Code : 08461
      - Prix : 0,50€
 
- - **Transistor MOSFET BS170** :
+ - **Transistor MOSFET BS170** : (x2)
      - Lien internet : https://www.gotronic.fr/art-transistor-bs170-1569.htm
      - Code : 02440
      - Prix : 0.30€
 
-- **Arduino Uno** :
+- **Arduino Uno** : (x1)
     - Lien internet : https://www.gotronic.fr/art-arduino-uno-a000066-12420.htm
     - Code : 25950
     - Prix : 23.90€
-  
+
+- **Connector Arduino 9 pins** : (x3)
+    - Lien internet : https://www.gotronic.fr/art-connecteur-fh1x9-35491.htm
+    - Code : 49007
+    - Prix : 0.80€
+- **Connector Arduino 14 pins** : (x1)
+    - Lien internet : https://www.gotronic.fr/art-connecteur-fh1x14-35646.htm
+    - Code : 49011
+    - Prix : 1€
 
 
 ### III. Assembly
