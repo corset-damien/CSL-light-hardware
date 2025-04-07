@@ -40,6 +40,17 @@ To run the program, you must first have the SSD1306Ascii library installed on Ar
 [Explains how to control light sources with Arduino and Python, and generate a trigger signal to synchronize a camera](https://github.com/SonyCSLParis/CSL-Lights)
 
 
+Test the control command: 
+  type: #d[3,0,0,1,0,2,0,255]:xxxx.  
+  It is a command to generate on and off output on pin 3 or 6
+  The pin stays on for 1 seconds with a period of 2 seconds, at intensity 255. 
+  It is later on embeded in a Pyton code for clarity. 
+  You should see a character sequence appear. 
+  Then type #b[100,0]:xxxx to start the experiment. 
+  You should see the LEDs blink (frequency 0.5Hz). 
+  To stop the blinking, type #e:xxxx
+
+
 ## III. Manufacture
 
 ### I. Kicad
