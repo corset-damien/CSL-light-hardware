@@ -37,6 +37,8 @@ The user can set the LED level using a potentiometer.
 First, open the LEDControl_interrupt_screen_ascii.cpp code in Arduino.ide.
 To run the program, you must first have the SSD1306Ascii library installed on Arduino.
 
+Git link that explains how to control light sources with Arduino and Python, and generate a trigger signal to synchronize a camera -> https://github.com/SonyCSLParis/CSL-Lights
+
 
 ## III. Manufacture
 
@@ -246,6 +248,7 @@ Screw the components into the box in this order:
 The code has been adapted to suit the circuit. 
 In this configuration, pins 3 and 6 are used for PWM inputs, while pins A0 and A1 are used for analog inputs.
 
+Git link that explains how to control light sources with Arduino and Python, and generate a trigger signal to synchronize a camera -> https://github.com/SonyCSLParis/CSL-Lights
 
 ## IV. Pref
 
