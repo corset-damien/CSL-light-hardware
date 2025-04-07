@@ -9,7 +9,7 @@ The user can define on the computer the frequency and amplitude of a sequence of
 
 
 #### MODE 2 - Analog control 
-The user can send an analog signal to control the LED. The analog sugnal can be designed using eg. a signal generator. 
+The user can send an analog signal to control the LED. The analog signal can be designed using eg. a signal generator. 
 
 #### MODE 3 - Manual control
 The user can set the LED level using a potentiometer.
