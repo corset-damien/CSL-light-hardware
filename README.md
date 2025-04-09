@@ -261,6 +261,3 @@ In this configuration, pins 3 and 6 are used for PWM inputs, while pins A0 and A
 
 [Explains how to control light sources with Arduino and Python, and generate a trigger signal to synchronize a camera](https://github.com/SonyCSLParis/CSL-Lights)
 
-## IV. Pref
-
-Specs avec Mathis
