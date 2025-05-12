@@ -261,3 +261,19 @@ In this configuration, pins 3 and 6 are used for PWM inputs, while pins A0 and A
 
 [Explains how to control light sources with Arduino and Python, and generate a trigger signal to synchronize a camera](https://github.com/SonyCSLParis/CSL-Lights)
 
+
+### License
+
+Copyright (C) 2025 
+
+Author(s):
+Julie Maugit - Polytech Sorbonne
+Thierry Legou - CNRS/Aix-Marseille Université
+Peter Hanappe - Sony Computer Science Laboratories Paris
+Aliénor Lahlou - Sony Computer Science Laboratories Paris
+
+You can redistribute it and/or modify  it under the terms of the GNU General Public License as published by   the Free Software Foundation, either version 3 of the License, or   (at your option) any later version.  This project is distributed in the hope that it will be useful, but  WITHOUT ANY WARRANTY; without even the implied warranty of   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU  General Public License for more details.  You should have received a copy of the GNU General Public License  along with this program.  If not, see  <http://www.gnu.org/licenses/>.
+
+This work was supported by the European Innovation Council Pathfinder Open DREAM (grant no. 101046451)
+
+
