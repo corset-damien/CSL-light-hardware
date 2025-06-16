@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "XT30")(type "KiCad")(uri "${KIPRJMOD}/Lib_carte_driver_LED/Symbols/XT30.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-DEVKITC")(type "KiCad")(uri "${KIPRJMOD}/Lib_carte_driver_LED/Symbols/ESP32-DEVKITC.kicad_sym")(options "")(descr ""))
+  (lib (name "RCD-24")(type "KiCad")(uri "${KIPRJMOD}/Lib_carte_driver_LED/Symbols/RCD-24.kicad_sym")(options "")(descr ""))
+  (lib (name "PJ-102AH")(type "KiCad")(uri "${KIPRJMOD}/Lib_carte_driver_LED/Symbols/PJ-102AH.kicad_sym")(options "")(descr ""))
+  (lib (name "MJ-3502")(type "KiCad")(uri "${KIPRJMOD}/Lib_carte_driver_LED/Symbols/MJ-3502.kicad_sym")(options "")(descr ""))
+)

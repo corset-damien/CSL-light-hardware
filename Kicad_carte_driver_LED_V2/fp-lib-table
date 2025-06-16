@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DRIVER_LED")(type "KiCad")(uri "${KIPRJMOD}/Lib_carte_driver_LED/Footprints.pretty")(options "")(descr ""))
+)
